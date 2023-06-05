@@ -55,7 +55,7 @@ function loadTasks(){
 function sort() {
  let sortArray = sortArray.sort() ;
  sortArray.forEach(itemTask => {
-  if (listItem === style.line.line("Line-through")) { continue } {
+  if (listItem === style.line.line("Line-through"))  {
 
 
  
